@@ -29,4 +29,4 @@ When you login, click xkb_startup.sh and sands.sh or open terminal then type
 http://qiita.com/tetsutan/items/bfa5768c3d618ca35d4a
 
 ### License
-NYSL. (http://www.kmonos.net/nysl/)
+Qiita Terms of Service. (https://qiita.com/terms)
