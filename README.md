@@ -1,7 +1,7 @@
 # xkb
 Author: jamcha (jamcha.aa@gmail.com)
 
-These are modified key settings for jp keyboards. These programs are based on the article of [tetsuran](http://qiita.com/tetsutan/items/bfa5768c3d618ca35d4a).
+These are modified key settings for jp keyboards under a Unix-like Environment. These programs are based on the article of [tetsuran](http://qiita.com/tetsutan/items/bfa5768c3d618ca35d4a).
 
 ## Modified key
 
