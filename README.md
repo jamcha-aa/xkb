@@ -20,7 +20,9 @@ These are modified key settings for jp keyboards.
 ## Usage
 
 When you login, click xkb_startup.sh and sands.sh or open terminal then type
+
      bash xkb_startup.sh
+
      bash sands.sh
 
 ## Reference
