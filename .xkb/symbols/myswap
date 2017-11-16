@@ -1,9 +1,11 @@
 partial modifier_keys
 xkb_symbols "swapkeys" {
 
+// Muhenkan to Ctrl
   replace key <NFER> { [ Control_L ] };
   modifier_map Control { <NFER> };
 
+// Henkan to Esc
   replace key <XFER> { [ Escape ] };
 
 };

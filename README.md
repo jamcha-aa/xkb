@@ -25,6 +25,10 @@ When you login, click xkb_startup.sh and sands.sh or open terminal then type
 
      bash sands.sh
 
+### Attention
+
+When you use my [init](https://github.com/jamcha-aa/init)'s skk setting, comment out Muhenkan to Ctrl. Otherwise, it conflicts with skk-stickey-key.
+
 ## Reference
 http://qiita.com/tetsutan/items/bfa5768c3d618ca35d4a
 
