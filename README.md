@@ -27,7 +27,7 @@ When you login, click xkb_startup.sh and sands.sh or open terminal then type
 
 ### Attention
 
-When you use my [init](https://github.com/jamcha-aa/init)'s skk setting, edit .xkb/symbols/myswap as below:
+When you use my [init](https://github.com/jamcha-aa/init)'s skk setting, edit .xkb/symbols/myswap as below;
 
 - enable CapsLock to Muhenkan
 - Or disable Muhenkan to Ctrl

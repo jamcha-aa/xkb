@@ -1,9 +1,6 @@
 partial modifier_keys
 xkb_symbols "swapkeys" {
 
-// Henkan to Esc
-  replace key <XFER> { [ Escape ] };
-
 // CapsLock to Muhenkan: toggle-key of my emacs skk
 //  key <CAPS> { [ Muhenkan, Muhenkan ] };
 
@@ -11,5 +8,7 @@ xkb_symbols "swapkeys" {
   replace key <NFER> { [ Control_L ] };
   modifier_map Control { <NFER> };
 
+// Henkan to Esc
+  replace key <XFER> { [ Escape ] };
 
 };
