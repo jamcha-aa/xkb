@@ -27,7 +27,12 @@ When you login, click xkb_startup.sh and sands.sh or open terminal then type
 
 ### Attention
 
-When you use my [init](https://github.com/jamcha-aa/init)'s skk setting, comment out Muhenkan to Ctrl. Otherwise, it conflicts with skk-stickey-key.
+When you use my [init](https://github.com/jamcha-aa/init)'s skk setting, edit .xkb/symbols/myswap as below:
+
+- enable CapsLock to Muhenkan
+- Or disable Muhenkan to Ctrl
+
+Otherwise, a Ctrl key modification conflicts with skk-stickey-key.
 
 ## Reference
 http://qiita.com/tetsutan/items/bfa5768c3d618ca35d4a
