@@ -1,0 +1,11 @@
+partial modifier_keys
+xkb_symbols "swapkeys" {
+
+// CapsLock to F12: toggle-key of my emacs skk
+  key <CAPS> { [  F12, F12 ] };
+
+// Alt_L to Ctrl
+  replace key <LALT> { [ Control_L, Control_L ] };
+  modifier_map Control { <LALT> };  
+
+};
